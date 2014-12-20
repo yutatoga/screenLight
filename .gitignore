@@ -1,0 +1,8 @@
+.DS_Store
+Build/
+Project.xcconfig
+addons.make
+bin/
+ofxiOS-Info.plist
+ofxiOS_Prefix.pch
+screenLight.xcodeproj/
